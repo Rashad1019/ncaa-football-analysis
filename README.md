@@ -54,4 +54,4 @@ This enhanced version includes:
 
 - **Source:** [Kaggle - College Football Team Stats 2013–2023](https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019)
 - **License:** Open Database Commons
-- **Variables:** 145+ metrics including offense, defense, special teams, red zone, and efficiency 
+- **Variables:** 145+ metrics including offense, defense, special teams, red zone, and efficiency
