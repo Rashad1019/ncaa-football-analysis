@@ -1,7 +1,13 @@
 
 # 🏈 NCAA Football Analysis (2013–2023)
 
-This project analyzes NCAA FBS football data from 2013 to 2023 to identify the key performance metrics that most strongly predict team success. It focuses on practical, game-level insights using team-level statistics including offense, defense, special teams, and efficiency.
+This project explores NCAA Division I FBS football team performance over 11 seasons (2013–2023) using publicly available NCAA data. The goal is to uncover which team-level metrics — such as third-down conversion rate, red-zone efficiency, turnover margin, and offensive/defensive balance — are most predictive of success.
+
+The analysis focuses on identifying strategic trends in team performance, understanding the impact of efficiency vs. specialization, and providing actionable insights for data-driven decision-making in college football.
+
+This repository contains the original version of the project, focused on football-specific insights, data storytelling, and visual summaries. For a portfolio-ready version following the full Google Data Analytics Capstone structure, see the enhanced report linked below.
+
+📎 **[View this project live (GitHub Pages)](https://rashad1019.github.io/ncaa-football-analysis/)**
 
 ## 📌 Project Highlights
 
